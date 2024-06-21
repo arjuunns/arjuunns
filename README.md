@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **DSA skills and backend development in node**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **NodeJs**
 
 - 🤝 I’m looking for help with **Backend Development**
 
