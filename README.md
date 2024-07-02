@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **singh.arjun2792@gmail.com**
 
-- ⚡ Fun fact **I am lazy af**
+- ⚡ Fun fact **I just love Capybaras**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
