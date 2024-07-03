@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjuunns&label=Profile%20views&color=0e75b6&style=flat" alt="arjuunns" /> </p>
 
-- 🔭 I’m currently working on **DSA skills and backend development in node**
+- 🔭 I’m currently working on **DSA skills and backend development in Javascript**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **ExpressJs**
 
 - 🤝 I’m looking for help with **Backend Development**
 
