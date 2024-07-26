@@ -5,7 +5,9 @@
 
 - 🔭 I’m currently working on **DSA skills and backend development in Javascript**
 
-- 🌱 I’m currently learning **Node.Js , Express.Js and MongoDB**
+- 🌱 I’m currently learning **Backend Development**
+
+- 🌱 Future Plans **Explore Devops**
 
 - 🤝 I’m looking for help with **Backend Development**
 
