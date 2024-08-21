@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arjuunns" alt="arjuunns" /></a> </p>
 
-- 🔭 I’m currently working on **Tour Booking WebApp**
+<!-- - 🔭 I’m currently working on **Tour Booking WebApp** -->
 
-- 🌱 I’m currently learning **Advanced MongoDB and Mongoose**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
