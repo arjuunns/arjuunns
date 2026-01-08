@@ -7,17 +7,17 @@
 
 <!-- - 🔭 I’m currently working on **Tour Booking WebApp** -->
 
-- 🌱 I’m currently learning **Advanced Backend**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **MERN Projects**
+- 👯 I’m looking to collaborate on **Fullstack Projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-self-topaz-theta.vercel.app/](https://portfolio-self-topaz-theta.vercel.app/)
+- 👨‍💻 All of my projects are available at [portfolio](https://arjuns.xyz)
 
-- 📝 I am Active on [https://x.com/ARJUNSI32476320](https://x.com/ARJUNSI32476320)
+- 📝 I am Active on [X (Twitter)](https://x.com/june_twts)
 
 - 💬 Ask me about **DSA and Full Stack Development**
 
-- 📫 How to reach me **singh.arjun2792@gmail.com**
+- 📫 How to reach me **arjun.tech983@gmail.com**
 
 - 📄 Know about my experiences [https://arjuunns.github.io/Minimal-CV/](https://arjuunns.github.io/Minimal-CV/)
 
